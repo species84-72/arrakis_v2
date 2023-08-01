@@ -25,7 +25,7 @@ java --version
 2. Build the project
 
 ```cmd
-mvnw.cmd clean install (Windows)
+./mvnw.cmd clean install (Windows)
 ./mvnw clean install (Mac/Codespaces/Linux)
 ```
 
